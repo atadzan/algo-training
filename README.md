@@ -1,1 +1,25 @@
 ## algo training
+### [NeetCode roadmap](https://neetcode.io/roadmap)
+* **Arrays & Hashing**
+  * [Contains Duplicate](#algo-training)
+  * [Valid Anagram](#algo-training)
+  * [Two Sum](#algo-training)
+  * [Group Anagrams](#algo-training)
+  * [Top K Frequent Elements](#algo-training)
+  * [Product of Array Except Self](#algo-training)
+  * [Valid Sudoku](#algo-training)
+  * [Longest Consecutive Sequence](#algo-training)
+    * **Stack**
+      * [Valid Parentheses](#algo-training)
+      * [Min Stack](#algo-training)
+      * [Evaluate Reverse Polish Notation](#)
+      * [Generate Parentheses](#algo-training)
+      * [Daily Temperatures](#algo-training)
+      * [Car Fleet](#algo-training)
+      * [Largest Rectangle In Histogram](#algo-training)
+    * **Two pointers**
+      * [Valid Palindrome](#algo-training)
+      * [Two Sum II Input Array Is Sorted](#algo-training)
+      * [3Sum](#algo-training)
+      * [Container With Most Water](#algo-training)
+      * [Trapping Rain Water](#algo-training)
